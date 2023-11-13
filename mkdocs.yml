@@ -1,0 +1,7 @@
+site_name: SurvPEC
+nav:
+- Home: index.md
+- Functions: Functions.md
+- Case studies: Case_studies.md 
+- About: About.md
+theme: readthedocs
